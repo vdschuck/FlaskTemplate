@@ -1,6 +1,6 @@
 # FlaskTemplate
 
-* Run powershell as admin.
+#### Run powershell as admin.
 
 - pip install pipenv
 
