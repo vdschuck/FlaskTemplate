@@ -1,15 +1,19 @@
 # FlaskTemplate
 
-#### Run powershell as admin.
+## Getting started
 
-- pip install pipenv
+#### Running for the first time:
 
-- pipenv shell
+> ```pip install pipenv```
+>
+> ``` pipenv shell ```
+>
+> ``` pipenv install flask ```
+>
+> ``` $env:FLASK_APP = "src/app.py" ```
+>
+> ``` $env:FLASK_ENV = "development" ```
+>
+> ``` flask run ```
 
-- pipenv install flask
-
-- $env:FLASK_APP = "src/app.py"
-
-- $env:FLASK_ENV = "development"
-
-- flask run
+*If you use Windows, run powershell as admin.*
