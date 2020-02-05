@@ -8,7 +8,7 @@
 
 - pipenv install flask
 
-- $env:FLASK_APP = "src/__init__.py"
+- $env:FLASK_APP = "src/app.py"
 
 - $env:FLASK_ENV = "development"
 
